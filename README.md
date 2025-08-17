@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋
 
-<!--
-**danialabilov13/danialabilov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Developer (C#) | Gameplay & Tools Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Unity (2D/3D), C#
+- Gameplay mechanics
+- Tools/Editor scripting
+- Optimization
+- Git, CI/CD, Unit Testing
+
+---
+
+## 🚀 Проекты
+- -
+
+---
+
+## 🎓 Достижения
+- -
+
+---
+
+## 📫 Контакты
+- ✉️ Email: danialabilov13@gmail.com
+- 🌐 Itch.io: [itch.io/danialabilov](https://itch.io/danialabilov)  
+- 💼 LinkedIn/GitHub: [github.com/danialabilov13](https://github.com/danialabilov13)
