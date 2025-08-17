@@ -25,5 +25,5 @@
 
 ## 📫 Контакты
 - ✉️ Email: danialabilov13@gmail.com
-- 🌐 Itch.io: [itch.io/danialabilov](https://itch.io/danialabilov)  
+- 🌐 Itch.io: [itch.io/danialabilov](https://danialabilov.itch.io/)
 - 💼 LinkedIn/GitHub: [github.com/danialabilov13](https://github.com/danialabilov13)
